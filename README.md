@@ -5,7 +5,7 @@
 I build the invisible infrastructure that helps businesses scale — standardized workflows, business systems, practical automation, documentation, and performance reporting.
 
 📄 Full visual portfolio: [`BOSD Portfolio Nihal Anand.pdf`](./BOSD%20Portfolio%20Nihal%20Anand.pdf)
-📩 nihalanand697@gmail.com | 📞 +91 7974072866 | 🔗 [ `LinkedIn` ] (./https://www.linkedin.com/in/nihal-anand)
+📩 nihalanand697@gmail.com | 📞 +91 7974072866 | 🔗 [LinkedIn](https://www.linkedin.com/in/nihal-anand)
 
 ---
 
