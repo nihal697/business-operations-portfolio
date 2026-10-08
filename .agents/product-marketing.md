@@ -95,7 +95,8 @@
 ## Proof Points
 **Metrics:** 260+ logged communications; 30-file Apps Script project; pre-due/overdue/recurring cadence running daily 10:00–19:00 Asia/Kolkata.
 **Customers:** Indian digital marketing agency (SEO/SMM retainers) — names redacted in public repo; shared under NDA.
-**Testimonials:** _To collect:_ "Before we chased on WhatsApp; now ___." Ask for: hrs saved/week, days-faster payment, one awkward moment avoided.
+**Testimonials:** _Pending — using operator note until first quotable client line arrives (ask sent)._
+> Operator note (live use, Sep 2026): 260+ logged sends across welcome, invoice, pre-due 1/2, overdue 1/2, and payment confirmations on Email + WhatsApp. Daily batches inside 10:00–19:00 Asia/Kolkata; single-address failures (e.g. missing email) logged with reason without breaking the batch. Client names and amounts redacted in public; full log shared with prospects under NDA.
 **Value themes:**
 | Theme | Proof |
 |-------|-------|

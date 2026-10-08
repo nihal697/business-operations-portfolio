@@ -67,6 +67,8 @@ Details:
 - Multi-client batches run daily inside business hours (Asia/Kolkata, 10:00–19:00)
 - Demo above uses fake data (`demo/*.csv`). Full column set in `SHEET_SCHEMA.md`.
 
+> Operator note (live use, Sep 2026): 260+ logged sends across welcome, invoice, pre-due 1/2, overdue 1/2, and payment confirmations on Email + WhatsApp. Daily batches inside 10:00–19:00 IST; single-address failures logged with reason without breaking the batch. Client names redacted; full log shared under NDA.
+
 > Demo data only in this repo. Live client names/amounts redacted. See [`demo/`](./demo/) for 2-client fake dataset you can screenshot.
 
 ## Cost comparison
