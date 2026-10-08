@@ -84,4 +84,4 @@ Details: [`process/how-i-work.md`](./process/how-i-work.md)
 
 - Email: nihalanand697@gmail.com
 - Phone: +91 7974072866
-- Portfolio PDF has LinkedIn + project resources link
+- LinkedIn: [linkedin.com/in/nihal-anand](https://www.linkedin.com/in/nihal-anand)
