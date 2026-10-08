@@ -54,6 +54,14 @@ Details:
 ![Invoice Register](./demo/invoice-register.png)
 ![Log sample](./demo/log-sample.png)
 
+### Video walkthrough (3 min)
+
+> _Pending — drop your Loom URL here. Script ready (hook → master → money flow → log → close)._
+
+```md
+[![Watch the 3-min demo](PASTE_LOOM_URL)](PASTE_LOOM_URL)
+```
+
 - 260+ log rows: pre-due 1/2, overdue 1/2, welcome, invoice, payment confirmations
 - Failure handling works: e.g. `Failed: No email address configured for client "X"` — visible, fixable, doesn't break the batch
 - Multi-client batches run daily inside business hours (Asia/Kolkata, 10:00–19:00)
