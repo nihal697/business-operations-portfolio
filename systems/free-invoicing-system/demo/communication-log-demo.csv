@@ -1,0 +1,9 @@
+Log ID,Timestamp,Invoice ID,Client ID,Client Name,Activity,Channel,Status,Description
+LOG00251,2026-09-02 08:32:00,INV00001,CL00001,Example Corp,Pre-Due Reminder 1,Email,Success,Subject: Friendly Reminder – Payment Due on 5 Sep 2026 | Sent to: accounts@examplecorp.in
+LOG00252,2026-09-05 08:32:00,,CL00002,Acme Studio,Pre-Due Reminder 1,Email,Success,Subject: Friendly Reminder – Payment Due on 10 Sep 2026 | Sent to: hello@acmestudio.example
+LOG00253,2026-09-06 08:32:00,,CL00002,Acme Studio,Pre-Due Reminder 2,Email,Success,Subject: A Friendly Follow-up Before September Says Hello
+LOG00254,2026-09-06 08:33:00,INV00001,CL00001,Example Corp,Payment Confirmation,Email,Success,Subject: Payment Received – Thank You
+LOG00255,2026-09-06 08:33:10,INV00001,CL00001,Example Corp,Payment Confirmation,WhatsApp,Success,Payment thank-you sent
+LOG00256,2026-09-06 08:34:00,,CL00001,Example Corp,Welcome,Email,Success,Subject: Welcome! | Onboarding complete
+LOG00257,2026-09-01 13:57:00,,,Example Corp,Pre-Due Reminder 1,Email,Failed,Failed: No email address configured for client
+LOG00258,2026-09-12 08:32:00,INV00003,CL00002,Acme Studio,Overdue Reminder 1,Email,Success,Subject: A Gentle Follow-up Regarding Your September Invoice

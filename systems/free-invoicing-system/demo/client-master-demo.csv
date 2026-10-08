@@ -1,0 +1,3 @@
+Client ID,Client Name,Contact Person,Phone,Email,Active Services,Monthly Fee (₹),Billing Type,Due Date,Client Status,Account Manager,Client Since,Notes
+CL00001,Example Corp,Aarav Sharma,+91 90000 00001,accounts@examplecorp.in,"SEO, SMM",25000,Advance,5,Active,Nihal Anand,1 Aug 2026,Demo row — not a real client
+CL00002,Acme Studio,Diya Patel,+91 90000 00002,hello@acmestudio.example,SEO,12000,Postpaid,10,Active,Nihal Anand,1 Sep 2026,Demo row — not a real client

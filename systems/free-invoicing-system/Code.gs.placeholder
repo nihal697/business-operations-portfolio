@@ -1,0 +1,60 @@
+// PRIVATE SOURCE — not committed. This file documents structure only.
+//
+// Project: "Invoice Automation Source Code" (30 files, from your screenshots)
+// Full source stays private and is shared with prospects under NDA.
+// This portfolio shows architecture + behavior, not the full codebase.
+//
+// ---- Actual file inventory (from editor screenshots) ----
+// AutomationDialog.html
+// AutomationTriggers.gs
+// BackfillDialog.html
+// ClientLifecycleService.gs
+// ClientLookupService.gs
+// ColumnSpecService.gs
+// CommunicationLogService.gs (truncated in screenshot as CommunicationLogServi...)
+// ConfigurationService.gs
+// Constants.gs
+// CoreService.gs
+// GmailOwnerService.gs
+// GranularAutomationService.gs (truncated as GranularAutomationSer...)
+// IdBackfillService.gs
+// IdService.gs
+// InvoiceActionService.gs
+// InvoiceLookupService.gs
+// InvoiceSelectDialog.html
+// LibraryStub.gs
+// LockService.gs
+// Logger.gs
+// NotificationService.gs
+// PaymentDialog.html
+// PaymentRegisterService.gs (truncated as PaymentRegisterService...)
+// ReminderActionService.gs (truncated as ReminderActionService....)
+// ResetIdCountersService.gs (truncated as ResetIdCountersService...)
+// SheetUtils.gs
+// SidebarDashboard.html
+// SystemHealthService.gs
+// WhatsAppConfigService.gs (truncated as WhatsAppConfigService...)
+// WhatsAppService.gs
+//
+// ---- What each layer does (for reviewers) ----
+// Config/Constants/ColumnSpec: sheet names, column indexes, reminder cadence,
+//   business-hours guardrails — no hardcoded IDs.
+// IdService + Backfill/Reset: CL/INV/PAY/LOG auto-increment + repair tools.
+// ClientLifecycle/Lookup: create/rename client folders, XLOOKUP integrity.
+// Invoice/Payment services + dialogs: create invoice, record payment,
+//   SUMIF rollups, status derivations.
+// AutomationTriggers + ReminderAction + GranularAutomation: daily scan,
+//   pre-due/overdue/recurring scheduler, per-invoice toggles.
+// GmailOwner/Notification + WhatsAppService/Config: send + threading +
+//   failure logging that never breaks the batch.
+// CommunicationLog/Logger/SheetUtils/Lock/SystemHealth: audit trail,
+//   concurrency locks, health checks.
+//
+// ---- How to share safely later (desktop, 5 min) ----
+// 1. On laptop, open Apps Script → Project Settings → copy script ID (not password).
+// 2. `npm i -g @google/clasp && clasp login && clasp clone <SCRIPT_ID> && clasp pull`
+//    (this downloads .gs/.html without copy-paste)
+// 3. Replace IDs/tokens with PropertiesService.getScriptProperties().getProperty(...)
+// 4. Commit sanitized copy here as Code.gs (or keep private + share Loom demo).
+//
+// DO NOT paste real IDs, tokens, passwords, or client PII.

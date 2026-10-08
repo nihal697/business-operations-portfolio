@@ -1,0 +1,4 @@
+Invoice ID,Client,Client ID,Due Date,Invoice Amount,Invoice Link,Received Amount,Balance Due,Payment Status,Collection Status,Payment Count,Invoice Sent Date,Last Reminder Date,Reminder Count,Next Reminder Date,All Reminders,Email Reminders,Whatsapp Reminders
+INV00001,Example Corp,CL00001,5 Sep 2026,25000,https://drive.google.com/file/d/DEMO1/view,25000,0,Paid,Paid,1,1 Sep 2026,3 Sep 2026,1,,Enabled,Enabled,Enabled
+INV00002,Example Corp,CL00001,5 Oct 2026,25000,,0,25000,Pending,Upcoming,0,,,,,Enabled,Enabled,Enabled
+INV00003,Acme Studio,CL00002,10 Sep 2026,12000,,0,12000,Pending,Overdue,0,,8 Sep 2026,2,12 Sep 2026,Enabled,Enabled,Enabled
