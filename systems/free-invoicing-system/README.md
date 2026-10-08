@@ -50,9 +50,14 @@ Details:
 
 ## Results (live system)
 
+![Client Master](./demo/client-master.png)
+![Invoice Register](./demo/invoice-register.png)
+![Log sample](./demo/log-sample.png)
+
 - 260+ log rows: pre-due 1/2, overdue 1/2, welcome, invoice, payment confirmations
 - Failure handling works: e.g. `Failed: No email address configured for client "X"` — visible, fixable, doesn't break the batch
 - Multi-client batches run daily inside business hours (Asia/Kolkata, 10:00–19:00)
+- Demo above uses fake data (`demo/*.csv`). Full column set in `SHEET_SCHEMA.md`.
 
 > Demo data only in this repo. Live client names/amounts redacted. See [`demo/`](./demo/) for 2-client fake dataset you can screenshot.
 
