@@ -1,10 +1,10 @@
 # How I Work
 
-1. **Discovery (30–45 min call)** — Where does time/money leak? Chasing payments? Messy onboarding? No reporting?
-2. **Audit (1–2 days)** — I map the as-is flow and rank fixes by ROI. Collections usually first — it pays for everything else.
-3. **Build (3–7 days for invoicing-type systems)** — Sheets + Apps Script on free tier. No paid tool unless you approve it. You get: sheets, script, Drive folders, templates.
-4. **Handover** — SOP (1 page), setup guide, Loom walkthrough, 2-week fix window. Team must be able to run it without me.
-5. **Support** — Monthly check or on-call. Logs make debugging fast (every send logged with status + reason).
+1. **Discovery — 15-min mapping call, no pitch.** You show me your current sheet; I map the 3 highest-ROI fixes. You keep the map either way.
+2. **Audit (1–2 days)** — I rank fixes by cash impact. Collections ships first because faster payment funds everything else.
+3. **Build (3–7 days for invoicing-type systems)** — Done-for-you on Sheets + Apps Script free tier. First week runs in test mode (reminders to your inbox), then live. Full scope in [`../offers/invoicing-automation-offer.md`](../offers/invoicing-automation-offer.md).
+4. **Handover** — 1-page SOP + Loom + 2-week fix window. Success = a junior runs it in ~10 min/day without you.
+5. **Support** — 30-day log review + monthly check or on-call. Every send is logged, so debugging is reading, not guessing.
 
 What you get with every build:
 - No lock-in: you own the Sheet, Drive, and script

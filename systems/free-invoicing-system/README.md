@@ -6,9 +6,9 @@ Built for an Indian digital marketing agency (retainers: SEO/SMM, Advance + Post
 
 ## Problem it solves
 
-- Founders/account managers chase payments in WhatsApp chaos
-- No single view: who owes what, since when, reminded how many times?
-- Paid tools cost money and still don't write your follow-ups or keep threading clean
+- Founders/account managers chase retainers across scattered WhatsApp threads — which means good clients get awkward nudges and late payers slip through.
+- No single view of who owes what, since when, and reminded how many times — so month-end means asking the team instead of opening one sheet.
+- Paid tools add subscription cost yet still need follow-up discipline, WhatsApp-first tone, and per-invoice threading for this segment.
 
 ## Architecture
 
@@ -65,10 +65,10 @@ Details:
 
 | Approach | Cost |
 |----------|------|
-| This system | ₹0 (Sheets + Apps Script free tier + existing Gmail/WhatsApp) |
-| Zoho Books / QuickBooks + reminder tool | ~₹10,000–₹30,000/yr + setup |
+| This system | ₹0 to run (Sheets + Apps Script free tier + Gmail/WhatsApp you already have) |
+| Typical Zoho Books / QuickBooks + reminder add-on | Commonly ~₹10,000–₹30,000/yr + setup time (check current pricing — varies by plan) |
 
-Trade-off: needs a Gmail account with sane daily limits + someone to keep the Client Master clean. That's what the validation colors + log are for.
+Trade-off, stated plainly: it needs one Gmail account within daily sending limits and one person keeping the Client Master clean. The validation colors + morning log check exist so a junior can do that in ~10 minutes.
 
 ## Source model: private code, public proof
 

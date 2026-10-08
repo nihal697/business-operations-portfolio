@@ -2,7 +2,7 @@
 
 **Designing structured systems, practical automation, and scalable workflows.**
 
-I build the invisible infrastructure that helps businesses scale — standardized workflows, business systems, practical automation, documentation, and performance reporting.
+I help 5–30 person retainer businesses stop chasing invoices on WhatsApp. I design the workflow, build it on free Google tools, and hand over an SOP + Loom your team actually follows — so you see who owes what in one view and reminders go themselves.
 
 📄 Full visual portfolio: [`BOSD Portfolio Nihal Anand.pdf`](./BOSD%20Portfolio%20Nihal%20Anand.pdf)
 📩 nihalanand697@gmail.com | 📞 +91 7974072866 | 🔗 [LinkedIn](https://www.linkedin.com/in/nihal-anand)
@@ -14,7 +14,7 @@ I build the invisible infrastructure that helps businesses scale — standardize
 | Area | What it means in practice |
 |------|---------------------------|
 | **Business Operations** | Structured workflows + business systems (lead → setup → delivery → reporting) |
-| **Automation** | Kill repetitive work with Google Apps Script + Workspace automation |
+| **Automation** | Automations on Sheets + Apps Script you already use — which means no new logins or subscriptions to manage |
 | **Documentation** | SOPs, templates, guides people actually follow |
 | **AI + Strategy** | Turn goals into processes; use AI for productivity + decisions |
 
@@ -46,7 +46,7 @@ See [`framework/operational-framework.md`](./framework/operational-framework.md)
 - Welcome mails, invoice mails with Drive link, payment thank-yous (Email + WhatsApp)
 - Full audit log: 260+ logged sends in live use (success/failed with reason)
 
-👉 Start here: [`systems/free-invoicing-system/README.md`](./systems/free-invoicing-system/README.md)
+👉 Start here: [`systems/free-invoicing-system/README.md`](./systems/free-invoicing-system/README.md) · Fixed scope: [`offers/invoicing-automation-offer.md`](./offers/invoicing-automation-offer.md)
 
 > Live client data is **not** in this repo. All examples use anonymized demo data. No passwords, API keys, or Workbook IDs are committed — see [`SECURITY.md`](./SECURITY.md).
 
@@ -68,6 +68,8 @@ See [`framework/operational-framework.md`](./framework/operational-framework.md)
 │       └── Code.gs.placeholder          # how to add your Apps Script
 ├── process/
 │   └── how-i-work.md                    # discovery → audit → build → handover
+├── offers/
+│   └── invoicing-automation-offer.md    # named offer: scope, bonuses, guarantee
 └── SECURITY.md                          # redaction + secrets policy
 ```
 
@@ -82,6 +84,8 @@ Details: [`process/how-i-work.md`](./process/how-i-work.md)
 
 ## Contact
 
-- Email: nihalanand697@gmail.com
+- Email: nihalanand697@gmail.com (subject: "Map my collections" — I reply with 3 time slots)
 - Phone: +91 7974072866
 - LinkedIn: [linkedin.com/in/nihal-anand](https://www.linkedin.com/in/nihal-anand)
+
+No pitch on the first call. You show me your current sheet; I map the 3 highest-ROI fixes. You keep the map either way.
