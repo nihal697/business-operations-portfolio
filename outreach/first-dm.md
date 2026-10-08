@@ -2,11 +2,11 @@
 
 ## 1. First DM (LinkedIn / WhatsApp, < 500 chars)
 
-> Hi [Name] — saw you run retainers at [Agency]. Most 5–30 person agencies I map lose 2+ hrs/week chasing invoices on WhatsApp with no single overdue view.
+> I design business operations that run without you chasing. Most 5–30 person service teams I map lose hours weekly to operations depending on memory — onboarding, handoffs, collections, reporting.
 >
-> I build a ₹0-run Sheets system that sends pre-due/overdue reminders + thank-yous itself, logs every send. Live: 260+ sends, 30-file build, demo + SOP included.
+> Flagship proof: a collections operation that follows up itself with controls + audit log (260+ sends, demo + SOP included).
 >
-> Open to a 15-min map? You show your sheet, I hand you the 3 fixes — keep it either way.
+> Open to a 15-min ops map? You walk me through how work flows, I hand you the 3 fixes — keep it either way.
 > Proof: github.com/nihal697/business-operations-portfolio
 
 Personalize line 1 only. Never send without the repo link.
@@ -18,8 +18,8 @@ Personalize line 1 only. Never send without the repo link.
 ## 3. Profile pin (GitHub profile README or LinkedIn featured)
 
 ```
-BOSD consulting — I turn WhatsApp chasing into systems.
-Featured: Zero-Cost Collections Build (Sheets + Apps Script, ₹0 to run, 260+ logged sends).
+BOSD consulting — operations that run without you chasing.
+Flagship: collections operation with controls + audit log (260+ sends).
 → Repo + demo + fixed-scope offer in pinned repo.
 ```
 

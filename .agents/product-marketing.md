@@ -4,8 +4,9 @@
 **Last updated:** 2026-10-09
 
 ## Product Overview
-**One-liner:** BOSD consulting that turns chaotic agency ops into Sheets + Apps Script systems teams actually follow.
-**What it does:** Designs standardized workflows (lead → setup → delivery → reporting), builds ₹0-running-cost automations (invoicing + reminders + thank-yous), and hands over SOPs + Looms so teams run it without the consultant.
+**One-liner:** BOSD consulting that designs operations which run without founder chasing — workflows, controls, and automations teams actually follow.
+**What it does:** Audits how work flows (leads, onboarding, delivery, collections, reporting), designs the operating system (who does what, in what order, with what checks), automates the repetitive parts, and hands over SOPs + Looms. Implementation is typically on tools the client already owns (Workspace + Apps Script) — tools are never the offer.
+**Product category:** Business operations consulting / system design for SMB services.
 **Product category:** Business operations consulting / ops automation for SMB agencies.
 **Product type:** Service (productized builds + audits).
 **Business model:** Fixed-scope builds (3–7 days) + 2-week fix window; optional monthly check. No software resale — client owns Sheet, Drive, script.
@@ -13,11 +14,11 @@
 ## Target Audience
 **Target companies:** 5–30 person Indian service businesses on monthly retainers (digital agencies first: SEO/SMM; applicable to any retainer business).
 **Decision-makers:** Founder / ops manager / account manager who chases payments.
-**Primary use case:** Stop chasing invoices manually; know who owes what, since when, reminded how many times — automatically.
+**Primary use case:** Turn founder-dependent operations (especially collections, onboarding, reporting) into controlled systems with clear ownership.
 **Jobs to be done:**
-- Get paid on time without awkward follow-ups
-- See cash position in one sheet without asking the team
-- Hand over ops to a junior without things breaking
+- Stop operations depending on memory and the founder
+- See the business in one view (pipeline, delivery, cash) without asking the team
+- Hand any function to a junior with controls so it doesn't break
 **Use cases:**
 - Retainer billing (Advance due-day-1/5/10 + Postpaid previous-month)
 - Pre-due / overdue / recurring reminders on Email + WhatsApp within business hours
@@ -50,7 +51,8 @@
 - WhatsApp-first + Email-threaded per invoice (matches how Indian SMBs actually pay)
 - Validation guardrails (duplicate/missing/overpayment colors) + every send logged with reason
 - You own everything; 1-page SOP + Loom so a junior can run it
-**How we do it differently:** Start from collections (highest ROI), ship in days on tools they already use, prove with 260+ logged sends — not slides.
+**How we do it differently:** Start from the highest-ROI operation (usually collections — it funds the rest), design ownership + controls first, automate second, prove with live logs — not slideware. Tools stay client-owned and boring by choice.
+**Why that's better:** The business runs when you're busy or away. Which means fewer follow-ups to remember, fewer handoffs dropped, fewer month-end surprises.
 **Why that's better:** Cash faster without new software, hires, or behavior change. Which means founders stop chasing and managers stop apologizing.
 **Why customers choose us:** Live system proof (not a template sale) + fixed scope + handover that sticks.
 
@@ -78,7 +80,8 @@
 **How they describe us:**
 - "Reminders go themselves"
 - "SOP + Loom so the team runs it"
-**Words to use:** retainer, due date, overdue, audit log, handover, SOP, fixed scope, you own it.
+**Words to use:** operations, system design, workflow, ownership, controls, handover, SOP, fixed scope, you own it.
+**Words to avoid:** sheets fixing, sheet cleanup, Excel help, revolutionary, game-changing, seamless, robust, 10x, secret, guaranteed, cutting-edge.
 **Words to avoid:** revolutionary, game-changing, seamless, robust, 10x, secret, guaranteed, cutting-edge.
 **Glossary:**
 | Term | Meaning |
@@ -106,7 +109,7 @@
 
 ## Goals
 **Business goal:** 2–3 retainer-agency builds/quarter from this repo + Loom.
-**Conversion action:** Book a 15-min flow-mapping call (email with subject "Map my collections").
+**Conversion action:** Book a 15-min ops-mapping call (email with subject "Map my operations").
 **Current metrics:** Repo live; Loom pending; testimonials pending.
 
 ## Changelog

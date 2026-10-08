@@ -1,6 +1,8 @@
-# Offer: Zero-Cost Collections Build (productized service)
+# Offer: Operations Control Build (productized service)
 
-**Name:** Zero-Cost Collections Build — "Reminders go themselves in 7 days."
+**Name:** Operations Control Build — "Runs without you chasing in 7 days."
+
+Flagship proof: the collections operation (pre-due → grace → overdue → recurring, with controls + audit log). Built on client-owned tools; tools are implementation, never the offer.
 
 ## Value equation (honest scores, 1–10)
 
@@ -15,7 +17,7 @@ Binding constraint: **perceived likelihood.** Fix with proof (Loom + 1 testimoni
 
 ## Anatomy
 
-1. **Core:** Collections system live in your Sheet in 3–7 days — Client Master cleanup, Invoice/Payment/Log wiring, reminder engine, Drive folders, 9 Email + 9 WhatsApp templates in your tone.
+1. **Core:** One operation designed and live in 3–7 days — workflow, ownership, controls, automation, SOP + Loom. Flagship: collections (Client → Invoice → Payment → Log wiring, cadence, guardrails, templates in your tone).
 2. **Bonus stack (raises value without discounting):**
    - 1-page SOP + Loom handover (junior-runnable)
    - Test-mode week: reminders to your inbox first, then clients
@@ -27,4 +29,4 @@ Binding constraint: **perceived likelihood.** Fix with proof (Loom + 1 testimoni
 
 ## CTA
 
-Email `nihalanand697@gmail.com` — subject "Map my collections." Include: client count + Advance/Postpaid + current tool. I reply with 3 slots + the 3 fixes I'd make. You keep the map either way.
+Email `nihalanand697@gmail.com` — subject "Map my operations." Include: team size + which operation hurts most (leads, onboarding, delivery, collections, reporting) + current tools. I reply with 3 slots + the 3 fixes I'd make. You keep the map either way.

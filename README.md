@@ -2,7 +2,7 @@
 
 **Designing structured systems, practical automation, and scalable workflows.**
 
-I help 5–30 person retainer businesses stop chasing invoices on WhatsApp. I design the workflow, build it on free Google tools, and hand over an SOP + Loom your team actually follows — so you see who owes what in one view and reminders go themselves.
+I design business operations that run without you chasing — clear workflows, controlled systems, and automations your team actually follows. Sheets and Apps Script are just tools I build with, not what I sell.
 
 📄 Full visual portfolio: [`BOSD Portfolio Nihal Anand.pdf`](./BOSD%20Portfolio%20Nihal%20Anand.pdf)
 📩 nihalanand697@gmail.com | 📞 +91 7974072866 | 🔗 [LinkedIn](https://www.linkedin.com/in/nihal-anand)
@@ -13,10 +13,10 @@ I help 5–30 person retainer businesses stop chasing invoices on WhatsApp. I de
 
 | Area | What it means in practice |
 |------|---------------------------|
-| **Business Operations** | Structured workflows + business systems (lead → setup → delivery → reporting) |
-| **Automation** | Automations on Sheets + Apps Script you already use — which means no new logins or subscriptions to manage |
-| **Documentation** | SOPs, templates, guides people actually follow |
-| **AI + Strategy** | Turn goals into processes; use AI for productivity + decisions |
+| **Business Operations** | End-to-end workflows (lead → setup → delivery → reporting) with ownership, controls, and visibility built in |
+| **System Design** | The operating system itself: who does what, in what order, with what checks — documented, not tribal knowledge |
+| **Automation** | Repetitive follow-ups, handoffs, and reporting handled automatically (I typically build on Workspace + Apps Script — tools, not the offer) |
+| **Documentation** | SOPs, templates, and Looms your team follows without you in the room |
 
 ## Operational framework (case study: digital marketing agency)
 
@@ -33,18 +33,11 @@ Four integrated systems, applicable across industries:
 
 See [`framework/operational-framework.md`](./framework/operational-framework.md) for the full breakdown.
 
-## Featured build: Zero-cost invoicing + collections automation
+## Proof it works: collections operation (agency case)
 
-**Problem:** Small agencies chase invoices manually. Paid tools (Zoho, QuickBooks) cost ₹10k–₹30k/yr and still need follow-up discipline.
+**Outcome:** retainer payments chased by the system, not the founder. One view of what's paid/overdue/upcoming. Every follow-up logged. Team runs it in ~10 min/day.
 
-**What I built:** End-to-end invoicing on **Google Sheets + Apps Script + Drive + Gmail/WhatsApp — ₹0 software cost.**
-
-- Client master → invoice register → payment register → communication log
-- Auto ID generation (CL / INV / PAY / LOG)
-- Pre-due reminders (T-5, T-2), grace, overdue (D+2, +5, +10), recurring every 7 days
-- Business-hours + weekday guardrails, duplicate/validation flags (red/yellow/orange)
-- Welcome mails, invoice mails with Drive link, payment thank-yous (Email + WhatsApp)
-- Full audit log: 260+ logged sends in live use (success/failed with reason)
+Built with free Google tools (details for operators: [`systems/free-invoicing-system/README.md`](./systems/free-invoicing-system/README.md)). The tools aren't the point — the operation is: pre-due → grace → overdue → recurring cadence, business-hours controls, per-invoice pause, threaded follow-ups, audit log.
 
 👉 Start here: [`systems/free-invoicing-system/README.md`](./systems/free-invoicing-system/README.md) · Fixed scope: [`offers/invoicing-automation-offer.md`](./offers/invoicing-automation-offer.md)
 
@@ -75,7 +68,7 @@ See [`framework/operational-framework.md`](./framework/operational-framework.md)
 
 ## How I work
 
-1. **Discovery** — map as-is pain (where time/money leaks)
+1. **Discovery — 15-min ops map, no pitch.** You walk me through how work flows today (leads, onboarding, delivery, collections, reporting); I map the 3 highest-ROI fixes. You keep the map either way.
 2. **Audit** — pick highest-ROI automation (collections > reporting > onboarding)
 3. **Build** — Sheets + Apps Script, free-tier only unless client approves spend
 4. **Handover** — SOP + Loom + 2-week support so team actually adopts it
@@ -84,7 +77,7 @@ Details: [`process/how-i-work.md`](./process/how-i-work.md)
 
 ## Contact
 
-- Email: nihalanand697@gmail.com (subject: "Map my collections" — I reply with 3 time slots)
+- Email: nihalanand697@gmail.com (subject: "Map my operations" — I reply with 3 time slots)
 - Phone: +91 7974072866
 - LinkedIn: [linkedin.com/in/nihal-anand](https://www.linkedin.com/in/nihal-anand)
 
