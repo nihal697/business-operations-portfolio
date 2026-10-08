@@ -25,7 +25,7 @@ Binding constraint: **perceived likelihood.** Fix with proof (Loom + 1 testimoni
 3. **Guarantee (real, bounded):** If the first scheduled batch doesn't send on time in test mode, I fix it free within the 2-week window or remove my fee for that milestone. No "double revenue" promises.
 4. **Scarcity (true):** 1 build slot at a time (it's done-for-you). Next slot date stated in email reply — no fake countdown.
 5. **Price + structure:** Fixed scope quoted after the 15-min map (typical: setup + handover; running cost ₹0). 50% to start, 50% when first live batch sends. You own everything.
-6. **Anti-promise:** Not for GST e-invoicing, 100+ invoices/mo SLAs, or teams that won't keep one master sheet clean — I'll tell you in the mapping call and point to Zoho instead.
+6. **Anti-promise:** Not for GST e-invoicing, 100+ invoices/mo SLAs, or teams that won't keep one master record clean — I'll tell you in the mapping call and point you elsewhere instead.
 
 ## CTA
 

@@ -37,7 +37,7 @@
 - Manual follow-up — inconsistent tone, forgotten when busy
 - Zoho/QuickBooks — subscription cost + still needs follow-up discipline + threading/WhatsApp gaps for this segment
 - Hiring an assistant — recurring salary for work a free script does daily at 8:30am
-**What it costs them:** 2+ hrs/week chasing, late payments stretching 10–30 days, awkward client moments, founder doing ops instead of sales.
+**What it costs them:** hours lost weekly to chasing and re-checking, payments arriving late, awkward client moments, founder doing ops instead of sales.
 **Emotional tension:** Dread before the 1st/5th/10th; embarrassment nudging a good client; doubt whether the invoice was even sent.
 
 ## Competitive Landscape
@@ -47,7 +47,7 @@
 
 ## Differentiation
 **Key differentiators:**
-- ₹0 running cost (Sheets + Apps Script free tier + existing Gmail/WhatsApp)
+- Runs on tools they already own (typically Workspace free tier) — no new subscriptions, no lock-in, client owns everything
 - WhatsApp-first + Email-threaded per invoice (matches how Indian SMBs actually pay)
 - Validation guardrails (duplicate/missing/overpayment colors) + every send logged with reason
 - You own everything; 1-page SOP + Loom so a junior can run it
@@ -81,8 +81,7 @@
 - "Reminders go themselves"
 - "SOP + Loom so the team runs it"
 **Words to use:** operations, system design, workflow, ownership, controls, handover, SOP, fixed scope, you own it.
-**Words to avoid:** sheets fixing, sheet cleanup, Excel help, revolutionary, game-changing, seamless, robust, 10x, secret, guaranteed, cutting-edge.
-**Words to avoid:** revolutionary, game-changing, seamless, robust, 10x, secret, guaranteed, cutting-edge.
+**Words to avoid:** sheets fixing, sheet cleanup, Excel help, dashboard developer, revolutionary, game-changing, seamless, robust, 10x, secret, guaranteed, cutting-edge.
 **Glossary:**
 | Term | Meaning |
 |------|---------|
@@ -91,12 +90,12 @@
 | Collection Status | Paid / Overdue / Upcoming derived from TODAY() vs Due |
 
 ## Brand Voice
-**Tone:** Direct, practical, founder-to-founder. No hype.
-**Style:** Concrete, numbered, show-the-sheet. Short sentences mixed with specifics.
+**Tone:** Human, simple, thoughtful, occasionally humorous. Founder-to-founder, never corporate, never overly technical.
+**Style:** Concrete, numbered, show-the-system. Short sentences mixed with specifics. Business problem first, tool names last (or never).
 **Personality:** Operator, honest, helpful, calm, specific.
 
 ## Proof Points
-**Metrics:** 260+ logged communications; 30-file Apps Script project; pre-due/overdue/recurring cadence running daily 10:00–19:00 Asia/Kolkata.
+**Metrics:** 260+ logged follow-ups in live agency use; pre-due/overdue/recurring cadence running daily 10:00–19:00 Asia/Kolkata. (Implementation detail: multi-service Apps Script setup — inventory in the repo, never the headline.)
 **Customers:** Indian digital marketing agency (SEO/SMM retainers) — names redacted in public repo; shared under NDA.
 **Testimonials:** _Pending — using operator note until first quotable client line arrives (ask sent)._
 > Operator note (live use, Sep 2026): 260+ logged sends across welcome, invoice, pre-due 1/2, overdue 1/2, and payment confirmations on Email + WhatsApp. Daily batches inside 10:00–19:00 Asia/Kolkata; single-address failures (e.g. missing email) logged with reason without breaking the batch. Client names and amounts redacted in public; full log shared with prospects under NDA.

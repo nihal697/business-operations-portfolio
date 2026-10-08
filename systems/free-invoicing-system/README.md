@@ -1,8 +1,10 @@
-# Free Invoicing + Collections Automation (Sheets + Apps Script)
+# Collections Operation — invoicing that follows up itself
 
-**₹0 software cost. Auto reminders. Thank-you mails. Full audit log.**
+**Consistent billing. Trackable payments. Less manual chasing. Full audit log.**
 
-Built for an Indian digital marketing agency (retainers: SEO/SMM, Advance + Postpaid, due-date billing). Live in use with 260+ logged communications.
+*Implementation detail for operators: typically built on Workspace + Apps Script at ₹0 running cost. The system matters, not the tool.*
+
+Live in one agency today (retainers: SEO/SMM, Advance + Postpaid, due-date billing) with 260+ logged follow-ups.
 
 ## Problem it solves
 
@@ -71,18 +73,18 @@ Details:
 
 > Demo data only in this repo. Live client names/amounts redacted. See [`demo/`](./demo/) for 2-client fake dataset you can screenshot.
 
-## Cost comparison
+## Cost & fit (implementation note, not the offer)
 
-| Approach | Cost |
+| Approach | Running cost |
 |----------|------|
-| This system | ₹0 to run (Sheets + Apps Script free tier + Gmail/WhatsApp you already have) |
+| This operation, as implemented | ₹0 — runs on tools the client already owns |
 | Typical Zoho Books / QuickBooks + reminder add-on | Commonly ~₹10,000–₹30,000/yr + setup time (check current pricing — varies by plan) |
 
-Trade-off, stated plainly: it needs one Gmail account within daily sending limits and one person keeping the Client Master clean. The validation colors + morning log check exist so a junior can do that in ~10 minutes.
+Fit, stated plainly: it needs one sender account within daily limits and one person keeping the master record clean. The validation colors + morning log check are designed so a junior can do that in minutes. Wrong fit for GST e-invoicing or 100+ invoices/mo — and I'll say so on the mapping call.
 
 ## Source model: private code, public proof
 
-The live project is 30 files (`AutomationTriggers`, `ClientLifecycleService`, `InvoiceActionService`, `PaymentRegisterService`, `ReminderActionService`, `WhatsAppService`, `SidebarDashboard.html`, etc. — full inventory in `Code.gs.placeholder`). Full source stays private and is shared with prospects under NDA.
+The live implementation is a multi-service setup (full inventory in `Code.gs.placeholder` — operator detail, not the headline). Full source stays private and is shared with prospects under NDA.
 
 This repo proves capability without leaking code: architecture, sheet schema, reminder rules, template inventory, live log behavior (260+ sends), and setup guide. A 3-min Loom walkthrough beats a 3,000-line dump for buyers anyway.
 

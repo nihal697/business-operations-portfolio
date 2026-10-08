@@ -2,7 +2,7 @@
 
 ## 1. First DM (LinkedIn / WhatsApp, < 500 chars)
 
-> I design business operations that run without you chasing. Most 5–30 person service teams I map lose hours weekly to operations depending on memory — onboarding, handoffs, collections, reporting.
+> I design business operations that run without you chasing. When onboarding, handoffs, collections, and reporting depend on memory, hours leak every week — and month-end means chasing instead of deciding.
 >
 > Flagship proof: a collections operation that follows up itself with controls + audit log (260+ sends, demo + SOP included).
 >
@@ -13,7 +13,7 @@ Personalize line 1 only. Never send without the repo link.
 
 ## 2. Follow-up (3 days, one nudge)
 
-> Bumping once — the demo sheet (2 fake clients, paid/upcoming/overdue + log sample) is in the repo above. If collections already runs clean, ignore me. If month-end still means chasing, the 15-min map stands.
+> Bumping once — the demo (2 fictional clients, paid/upcoming/overdue + log sample) is in the repo above. If collections already runs clean, ignore me. If month-end still means chasing, the 15-min map stands.
 
 ## 3. Profile pin (GitHub profile README or LinkedIn featured)
 

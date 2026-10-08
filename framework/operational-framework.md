@@ -16,7 +16,7 @@ Source: `BOSD Portfolio Nihal Anand.pdf` — summarized here so the repo is sear
 
 **System:** Client Onboarding System — collects info, standardizes setup, prepares for execution.
 
-**Business value:** standardized onboarding, complete client records, faster setup, seamless strategy handoff.
+**Business value:** standardized onboarding, complete client records, faster setup, clean strategy handoff.
 
 ## 3. Planning & Production
 

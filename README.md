@@ -69,9 +69,9 @@ Built with free Google tools (details for operators: [`systems/free-invoicing-sy
 ## How I work
 
 1. **Discovery — 15-min ops map, no pitch.** You walk me through how work flows today (leads, onboarding, delivery, collections, reporting); I map the 3 highest-ROI fixes. You keep the map either way.
-2. **Audit** — pick highest-ROI automation (collections > reporting > onboarding)
-3. **Build** — Sheets + Apps Script, free-tier only unless client approves spend
-4. **Handover** — SOP + Loom + 2-week support so team actually adopts it
+2. **Audit** — I rank fixes by cash impact: which operation, if systematized, pays for the rest (usually collections first)
+3. **Build** — one operation designed and live, on tools you already own. No new subscriptions unless you approve them
+4. **Handover** — SOP + Loom + 2-week support so the team runs it without you in the room
 
 Details: [`process/how-i-work.md`](./process/how-i-work.md)
 
